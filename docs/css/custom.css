@@ -1,0 +1,21 @@
+/* your styles go here */
+.example-div {
+    display: flex;
+  }
+  
+  .player-div {
+    background-color: rgb(34, 34, 34);
+    flex-basis: 100%;
+  }
+
+  #sidebar{
+    max-width: 360px;
+  }
+
+  .img-responsive{
+    margin: 0;
+  }
+
+  h5{
+    line-height: 0.8;
+  }
