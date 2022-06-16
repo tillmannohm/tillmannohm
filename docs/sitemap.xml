@@ -2,52 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tillmannohm.com/portfolio/arcuohm/</loc>
+    <loc>https://tillmannohm.com/arcuohm/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/algorithmic-exhibition-making/</loc>
+    <loc>https://tillmannohm.com/algorithmic-exhibition-making/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/museeimaginaire/</loc>
+    <loc>https://tillmannohm.com/museeimaginaire/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/artists-machine/</loc>
+    <loc>https://tillmannohm.com/artists-machine/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/arcu/</loc>
+    <loc>https://tillmannohm.com/arcu/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/reflections-of-hal-and-samantha/</loc>
+    <loc>https://tillmannohm.com/reflections-of-hal-and-samantha/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/studies-on-masters/</loc>
+    <loc>https://tillmannohm.com/studies-on-masters/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/electronic-music-box/</loc>
+    <loc>https://tillmannohm.com/electronic-music-box/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/chinese-whispers/</loc>
+    <loc>https://tillmannohm.com/chinese-whispers/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/stereotypes/</loc>
+    <loc>https://tillmannohm.com/stereotypes/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/die-gedanken-sind-frei-thoughts-are-free/</loc>
+    <loc>https://tillmannohm.com/die-gedanken-sind-frei-thoughts-are-free/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/instant-qr-camera/</loc>
+    <loc>https://tillmannohm.com/instant-qr-camera/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/outsourced-film-production/</loc>
+    <loc>https://tillmannohm.com/outsourced-film-production/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/portfolio/zampano/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url><url>
-    <loc>https://tillmannohm.com/portfolio/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url><url>
-    <loc>https://tillmannohm.com/</loc>
+    <loc>https://tillmannohm.com/zampano/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
     <loc>https://tillmannohm.com/about/</loc>
@@ -55,5 +49,7 @@
     <loc>https://tillmannohm.com/categories/</loc>
   </url><url>
     <loc>https://tillmannohm.com/tags/</loc>
+  </url><url>
+    <loc>https://tillmannohm.com/</loc>
   </url>
 </urlset>
