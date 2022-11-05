@@ -362,8 +362,7 @@ SIDEBAR + RIGHT COLUMN
   color: #555555;
 }
 .sidebar-menu li:before {
-  font-family: 'FontAwesome';
-  content: '\f105';
+  content: '•';
   margin: 0 5px 0 -15px;
   color: #999999;
 }
@@ -414,8 +413,7 @@ SIDEBAR + RIGHT COLUMN
   list-style-type: none;
 }
 .content-column-content ul li:before {
-  font-family: 'FontAwesome';
-  content: '\f105';
+  content: '•';
   margin: 0 5px 0 -15px;
   color: #ef5285;
 }
@@ -945,8 +943,7 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  font-family: 'FontAwesome';
-  content: '\f105';
+  content: '•';
   text-align: center;
   font-size: 50px;
   color: #555555;
