@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate><atom:link href="https://tillmannohm.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Collection Space Navigator</title>
+      <link>https://tillmannohm.com/csn/</link>
+      <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
+      
+      <guid>https://tillmannohm.com/csn/</guid>
+      <description>The Collection Space Navigator (CSN) is an explorative visualization tool for researching collections and their multidimensional representations. We designed this tool to better understand multidimensional data, its methods, and semantic qualities through spatial navigation and filtering. CSN can be used with any image collection and can be customized for specific research needs (see Jupyter Notebook or Google Colab).
+Links  🖥️ Online demo
+💾 Code
+📄 Research paper
+🌐 Project website Abstract We introduce the Collection Space Navigator (CSN), a browser-based visualization tool to explore, research, and curate large collections of visual digital artifacts that are associated with multidimensional data, such as vector embeddings or tables of metadata.</description>
+    </item>
+    
+    <item>
       <title>ARCU&amp;OHM</title>
       <link>https://tillmannohm.com/arcuohm/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
