@@ -21,22 +21,21 @@ Links  🖥️ Online demo
     </item>
     
     <item>
-      <title>Le #museeimaginaire</title>
-      <link>https://tillmannohm.com/applications/museeimaginaire/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>Projection Scans</title>
+      <link>https://tillmannohm.com/applications/projection-scanner/</link>
+      <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
       
-      <guid>https://tillmannohm.com/applications/museeimaginaire/</guid>
-      <description>Virtual Museum / Web App Computer vision selected Instagram feeds 2018 [ENTER LIVE WORK] Livestreams of popular artworks collectively reproduced by social media users. A contemporary virtual version of Le Musée Imaginaire – the imaginary museum.
-Each artwork stream channels its latest representations from public Instagram posts based on their physical locations using geotags. Aided by computer vision, every hour Le #museeimaginaire gathers shared auratic moments by museum visitors around the world in nearly real-time.</description>
+      <guid>https://tillmannohm.com/applications/projection-scanner/</guid>
+      <description>The Projection Scans are interactive in-browser visualizations of different dimensionality reduction techniques, showing 2D, 3D and 6D projections of high-dimensional data. A single, linear dimension or metric provides the possibility to “slice” through the space. This experimental tool tries to better understand the involved methods and to gain intuition of high-dimensional spaces.</description>
     </item>
     
     <item>
-      <title>Semantic Collection Network</title>
-      <link>https://tillmannohm.com/applications/kunstfonds/</link>
+      <title>Nearest Neighbors Comparisons</title>
+      <link>https://tillmannohm.com/applications/nn-comparison/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
       
-      <guid>https://tillmannohm.com/applications/kunstfonds/</guid>
-      <description>[ENTER LIVE WORK] For the exhibition KUNST(RE_PUBLIC) of HALLE 14 in cooperation with the Art Fund of the Dresden State Art Collections, a curatorial classification as well as algorithmic selection of over 370 works of art from the subsidized purchases of the Cultural Foundation of the Free State of Saxony in the collection was created. The Free State of Saxony promotes the Saxon art scene, among other things, through the annual purchases of works of art, which have taken place since 1992.</description>
+      <guid>https://tillmannohm.com/applications/nn-comparison/</guid>
+      <description>The Nearest Neighbors Comparisons are in-browser visualizations to better understand the concept of &amp;ldquo;similarity&amp;rdquo; when pre-trained deep learning models such as ResNet50 and VGG19 are used for feature extraction in image analysis. These models are commonly used to measure similarity between images, although their underlying representations are not always easy to interpret. The tool aims to offer means to evaluate the aesthetic similarity between images by comparing different methods and modelsnext to each other.</description>
     </item>
     
     <item>
@@ -127,6 +126,34 @@ A melody can be physically programmed with simple computing jumpers using a 16×
       <guid>https://tillmannohm.com/artworks/chinese-whispers/</guid>
       <description>Interactive installation Android app Artisitic research on computational creativity 2016 In this interactive installation, the children’s game “Chinese Whispers” (also known as “telephone”, “gossip”, “operator”, “messenger game”, “Stille Post”) – in which a message is whispered from one person to another – is performed with smartphones using the default speech recognition and speech synthesis software of the device’s operating system.
 The often humorous altered last statement in the communication chain is a perfect metaphor for cumulative error caused by feedback.</description>
+    </item>
+    
+    <item>
+      <title>Le #museeimaginaire</title>
+      <link>https://tillmannohm.com/artworks/museeimaginaire/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://tillmannohm.com/artworks/museeimaginaire/</guid>
+      <description>Virtual Museum / Web App Computer vision selected Instagram feeds 2018 [ENTER LIVE WORK] Livestreams of popular artworks collectively reproduced by social media users. A contemporary virtual version of Le Musée Imaginaire – the imaginary museum.
+Each artwork stream channels its latest representations from public Instagram posts based on their physical locations using geotags. Aided by computer vision, every hour Le #museeimaginaire gathers shared auratic moments by museum visitors around the world in nearly real-time.</description>
+    </item>
+    
+    <item>
+      <title>Kunstfonds Network</title>
+      <link>https://tillmannohm.com/applications/kunstfonds/</link>
+      <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
+      
+      <guid>https://tillmannohm.com/applications/kunstfonds/</guid>
+      <description>[ENTER LIVE WORK] For the exhibition KUNST(RE_PUBLIC) of HALLE 14 in cooperation with the Art Fund (Kunstfonds) of the Dresden State Art Collections, a curatorial classification as well as algorithmic selection of over 370 works of art from the subsidized purchases of the Cultural Foundation of the Free State of Saxony in the collection was created. The Free State of Saxony promotes the Saxon art scene, among other things, through the annual purchases of works of art, which have taken place since 1992.</description>
+    </item>
+    
+    <item>
+      <title>Kunstfonds Network</title>
+      <link>https://tillmannohm.com/arcu-ohm/kunstfonds/</link>
+      <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
+      
+      <guid>https://tillmannohm.com/arcu-ohm/kunstfonds/</guid>
+      <description>[ENTER LIVE WORK] For the exhibition KUNST(RE_PUBLIC) of HALLE 14 in cooperation with the Art Fund (Kunstfonds) of the Dresden State Art Collections, a curatorial classification as well as algorithmic selection of over 370 works of art from the subsidized purchases of the Cultural Foundation of the Free State of Saxony in the collection was created. The Free State of Saxony promotes the Saxon art scene, among other things, through the annual purchases of works of art, which have taken place since 1992.</description>
     </item>
     
     <item>
