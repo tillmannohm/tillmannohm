@@ -2,59 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tillmannohm.com/csn/</loc>
+    <loc>https://tillmannohm.com/applications/</loc>
     <lastmod>2023-05-05T19:59:22+05:00</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/arcuohm/</loc>
+    <loc>https://tillmannohm.com/applications/csn/</loc>
+    <lastmod>2023-05-05T19:59:22+05:00</lastmod>
+  </url><url>
+    <loc>https://tillmannohm.com/arcu-ohm/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/algorithmic-exhibition-making/</loc>
+    <loc>https://tillmannohm.com/artworks/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/museeimaginaire/</loc>
+    <loc>https://tillmannohm.com/applications/museeimaginaire/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/artists-machine/</loc>
+    <loc>https://tillmannohm.com/publications/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/research/artists-machine/</loc>
+    <loc>https://tillmannohm.com/applications/kunstfonds/</loc>
+    <lastmod>2023-05-05T19:59:22+05:00</lastmod>
+  </url><url>
+    <loc>https://tillmannohm.com/arcu-ohm/arcuohm/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/arcu/</loc>
+    <loc>https://tillmannohm.com/arcu-ohm/algorithmic-exhibition-making/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/reflections-of-hal-and-samantha/</loc>
+    <loc>https://tillmannohm.com/arcu-ohm/museeimaginaire/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url><url>
+    <loc>https://tillmannohm.com/arcu-ohm/artists-machine/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url><url>
+    <loc>https://tillmannohm.com/arcu-ohm/arcu/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url><url>
+    <loc>https://tillmannohm.com/artworks/reflections-of-hal-and-samantha/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/studies-on-old-masters/</loc>
+    <loc>https://tillmannohm.com/artworks/studies-on-old-masters/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/electronic-music-box/</loc>
+    <loc>https://tillmannohm.com/artworks/electronic-music-box/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/chinese-whispers/</loc>
+    <loc>https://tillmannohm.com/artworks/chinese-whispers/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/stereotypes/</loc>
+    <loc>https://tillmannohm.com/artworks/stereotypes/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/die-gedanken-sind-frei-thoughts-are-free/</loc>
+    <loc>https://tillmannohm.com/artworks/die-gedanken-sind-frei-thoughts-are-free/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/instant-qr-camera/</loc>
+    <loc>https://tillmannohm.com/artworks/instant-qr-camera/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/outsourced-film-production/</loc>
+    <loc>https://tillmannohm.com/artworks/outsourced-film-production/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/zampano/</loc>
+    <loc>https://tillmannohm.com/artworks/zampano/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://tillmannohm.com/research/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+    <loc>https://tillmannohm.com/about/</loc>
+    <lastmod>2023-05-05T19:59:22+05:00</lastmod>
   </url><url>
     <loc>https://tillmannohm.com/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+    <lastmod>2023-05-05T19:59:22+05:00</lastmod>
   </url><url>
     <loc>https://tillmannohm.com/categories/</loc>
   </url><url>
