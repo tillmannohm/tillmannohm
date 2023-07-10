@@ -19,3 +19,7 @@
   h5{
     line-height: 0.8;
   }
+
+  .masonry-item{
+    max-width: 300px;
+  }
