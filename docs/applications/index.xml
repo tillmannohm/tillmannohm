@@ -6,55 +6,46 @@
     <description>Recent content in Applications on Tillmann Ohm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 19:59:22 +0500</lastBuildDate><atom:link href="https://tillmannohm.com/applications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 19:59:22 +0500</lastBuildDate>
+    <atom:link href="https://tillmannohm.com/applications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARCU.studio (upcoming)</title>
       <link>https://tillmannohm.com/applications/arcu-studio/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
-      
       <guid>https://tillmannohm.com/applications/arcu-studio/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
-    
     <item>
       <title>Collection Space Navigator</title>
       <link>https://tillmannohm.com/applications/csn/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
-      
       <guid>https://tillmannohm.com/applications/csn/</guid>
       <description>The Collection Space Navigator (CSN) is an explorative visualization tool for researching collections and their multidimensional representations. We designed this tool to better understand multidimensional data, its methods, and semantic qualities through spatial navigation and filtering. CSN can be used with any image collection and can be customized for specific research needs (see Jupyter Notebook or Google Colab).
-Links  🖥️ Online demo
+Links 🖥️ Online demo
 💾 Code
 📄 Research paper
 🌐 Project website Abstract We introduce the Collection Space Navigator (CSN), a browser-based visualization tool to explore, research, and curate large collections of visual digital artifacts that are associated with multidimensional data, such as vector embeddings or tables of metadata.</description>
     </item>
-    
     <item>
       <title>Projection Scans</title>
       <link>https://tillmannohm.com/applications/projection-scanner/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
-      
       <guid>https://tillmannohm.com/applications/projection-scanner/</guid>
       <description>The Projection Scans are interactive in-browser visualizations of different dimensionality reduction techniques, showing 2D, 3D and 6D projections of high-dimensional data. A single, linear dimension or metric provides the possibility to “slice” through the space. This experimental tool tries to better understand the involved methods and to gain intuition of high-dimensional spaces.</description>
     </item>
-    
     <item>
       <title>Nearest Neighbors Comparisons</title>
       <link>https://tillmannohm.com/applications/nn-comparison/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
-      
       <guid>https://tillmannohm.com/applications/nn-comparison/</guid>
       <description>The Nearest Neighbors Comparisons are in-browser visualizations to better understand the concept of &amp;ldquo;similarity&amp;rdquo; when pre-trained deep learning models such as ResNet50 and VGG19 are used for feature extraction in image analysis. These models are commonly used to measure similarity between images, although their underlying representations are not always easy to interpret. The tool aims to offer means to evaluate the aesthetic similarity between images by comparing different methods and modelsnext to each other.</description>
     </item>
-    
     <item>
       <title>Kunstfonds Network</title>
       <link>https://tillmannohm.com/applications/kunstfonds/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
-      
       <guid>https://tillmannohm.com/applications/kunstfonds/</guid>
       <description>[ENTER LIVE WORK] For the exhibition KUNST(RE_PUBLIC) of HALLE 14 in cooperation with the Art Fund (Kunstfonds) of the Dresden State Art Collections, a curatorial classification as well as algorithmic selection of over 370 works of art from the subsidized purchases of the Cultural Foundation of the Free State of Saxony in the collection was created. The Free State of Saxony promotes the Saxon art scene, among other things, through the annual purchases of works of art, which have taken place since 1992.</description>
     </item>
-    
   </channel>
 </rss>
