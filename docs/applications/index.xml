@@ -1,52 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Applications on Tillmann Ohm</title>
+    <title>Tools on Tillmann Ohm</title>
     <link>https://tillmannohm.com/applications/</link>
-    <description>Recent content in Applications on Tillmann Ohm</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tools on Tillmann Ohm</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 19:59:22 +0500</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 19:59:22 +0500</lastBuildDate>
     <atom:link href="https://tillmannohm.com/applications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fruit-SALAD</title>
       <link>https://tillmannohm.com/applications/fruit-salad/</link>
       <pubDate>Fri, 03 May 2024 19:59:22 +0500</pubDate>
       <guid>https://tillmannohm.com/applications/fruit-salad/</guid>
-      <description>fruit-SALAD is a synthetic image dataset with 10,000 generated images of fruit depictions. This combined semantic category and style benchmark comprises 100 instances each of 10 easily recognizable fruit categories and 10 easy distinguishable styles.
-The carefully designed Style Aligned Artwork Dataset (SALAD) provides a controlled and balanced platform for the comparative analysis of similarity perception of different computational models. The SALAD framework allows the comparison of how these models perform semantic category and style recognition tasks, going beyond the level of anecdotal knowledge, making them robustly quantifiable and qualitatively interpretable.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://tillmannohm.com/img/portfolio/fruit-SALAD.png&#34; alt=&#34;fruit-SALAD overview&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;fruit-SALAD&lt;/strong&gt; is a synthetic image dataset with 10,000 generated images of fruit depictions. This combined semantic category and style benchmark comprises 100 instances each of 10 easily recognizable fruit categories and 10 easy distinguishable styles.&lt;/p&gt;&#xA;&lt;p&gt;The carefully designed Style Aligned Artwork Dataset (SALAD) provides a controlled and balanced platform for the comparative analysis of similarity perception of different computational models. The SALAD framework allows the comparison of how these models perform semantic category and style recognition tasks, going beyond the level of anecdotal knowledge, making them robustly quantifiable and qualitatively interpretable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collection Space Navigator</title>
       <link>https://tillmannohm.com/applications/csn/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
       <guid>https://tillmannohm.com/applications/csn/</guid>
-      <description>The Collection Space Navigator (CSN) is an explorative visualization tool for researching collections and their multidimensional representations. We designed this tool to better understand multidimensional data, its methods, and semantic qualities through spatial navigation and filtering. CSN can be used with any image collection and can be customized for specific research needs (see Jupyter Notebook or Google Colab).
-Links 🖥️ Online demo
-💾 Code
-📄 Research paper
-🌐 Project website Abstract We introduce the Collection Space Navigator (CSN), a browser-based visualization tool to explore, research, and curate large collections of visual digital artifacts that are associated with multidimensional data, such as vector embeddings or tables of metadata.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://tillmannohm.com/img/portfolio/CSN-tillmann-ohm.png&#34; alt=&#34;Screenshot CSN&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Collection Space Navigator (CSN) is an explorative visualization tool for researching collections and their multidimensional representations. We designed this tool to better understand multidimensional data, its methods, and semantic qualities through spatial navigation and filtering. CSN can be used with any image collection and can be customized for specific research needs (see Jupyter Notebook or Google Colab).&lt;/p&gt;&#xA;&lt;h5 id=&#34;links&#34;&gt;Links&lt;/h5&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;a href=&#34;https://collection-space-navigator.github.io/CSN&#34; target=&#34;_blank&#34;&gt;🖥️ Online demo&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://collection-space-navigator.github.io/CSN&#34; target=&#34;_blank&#34;&gt;💾 Code&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://arxiv.org/abs/2305.06809&#34; target=&#34;_blank&#34;&gt;📄 Research paper&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://collection-space-navigator.github.io/&#34; target=&#34;_blank&#34;&gt;🌐 Project website&lt;/a&gt;&#xA;&#xA;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;&#xA;&lt;p&gt;We introduce the Collection Space Navigator (CSN), a browser-based visualization tool to explore, research, and curate large collections of visual digital artifacts that are associated with multidimensional data, such as vector embeddings or tables of metadata. Media objects such as images are often encoded as numerical vectors, for e.g. based on metadata or using machine learning to embed image information. Yet, while such procedures are widespread for a range of applications, it remains a challenge to explore, analyze, and understand the resulting multidimensional spaces in a more comprehensive manner. Dimensionality reduction techniques such as t-SNE or UMAP often serve to project high-dimensional data into low dimensional visualizations, yet require interpretation themselves as the remaining dimensions are typically abstract. Here, the Collection Space Navigator provides a customizable interface that combines two-dimensional projections with a set of configurable multidimensional filters. As a result, the user is able to view and investigate collections, by zooming and scaling, by transforming between projections, by filtering dimensions via range sliders, and advanced text filters. Insights that are gained during the interaction can be fed back into the original data via ad hoc exports of filtered metadata and projections. This paper comes with a functional showcase demo using a large digitized collection of classical Western art. The Collection Space Navigator is open source. Users can reconfigure the interface to fit their own data and research needs, including projections and filter controls. The CSN is ready to serve a broad community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projection Scans</title>
       <link>https://tillmannohm.com/applications/projection-scanner/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
       <guid>https://tillmannohm.com/applications/projection-scanner/</guid>
-      <description>The Projection Scans are interactive in-browser visualizations of different dimensionality reduction techniques, showing 2D, 3D and 6D projections of high-dimensional data. A single, linear dimension or metric provides the possibility to “slice” through the space. This experimental tool tries to better understand the involved methods and to gain intuition of high-dimensional spaces.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://tillmannohm.com/img/portfolio/projection-scanner-animation.gif&#34; alt=&#34;Projection Scans gif animation&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Projection Scans are interactive in-browser visualizations of different dimensionality reduction techniques, showing 2D, 3D and 6D projections of high-dimensional data. A single, linear dimension or metric provides the possibility to “slice” through the space. This experimental tool tries to better understand the involved methods and to gain intuition of high-dimensional spaces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nearest Neighbors Comparisons</title>
       <link>https://tillmannohm.com/applications/nn-comparison/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
       <guid>https://tillmannohm.com/applications/nn-comparison/</guid>
-      <description>The Nearest Neighbors Comparisons are in-browser visualizations to better understand the concept of &amp;ldquo;similarity&amp;rdquo; when pre-trained deep learning models such as ResNet50 and VGG19 are used for feature extraction in image analysis. These models are commonly used to measure similarity between images, although their underlying representations are not always easy to interpret. The tool aims to offer means to evaluate the aesthetic similarity between images by comparing different methods and modelsnext to each other.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://tillmannohm.com/img/portfolio/nn-comparison-tillmann-ohm.jpg&#34; alt=&#34;Semantic Collection Network web application screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Nearest Neighbors Comparisons are in-browser visualizations to better understand the concept of &amp;ldquo;similarity&amp;rdquo; when pre-trained deep learning models such as ResNet50 and VGG19 are used for feature extraction in image analysis. These models are commonly used to measure similarity between images, although their underlying representations are not always easy to interpret. The tool aims to offer means to evaluate the aesthetic similarity between images by comparing different methods and modelsnext to each other. It facilitates the comparison of distance metrics such as cosine similarity and Euclidean distance to perform nearest neighbor searches. With the help of this visualization tool, researchers can gain a visual understanding of the aesthetic similarity of the displayed images.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kunstfonds Network</title>
       <link>https://tillmannohm.com/applications/kunstfonds/</link>
       <pubDate>Fri, 05 May 2023 19:59:22 +0500</pubDate>
       <guid>https://tillmannohm.com/applications/kunstfonds/</guid>
-      <description>[ENTER LIVE WORK] For the exhibition KUNST(RE_PUBLIC) of HALLE 14 in cooperation with the Art Fund (Kunstfonds) of the Dresden State Art Collections, a curatorial classification as well as algorithmic selection of over 370 works of art from the subsidized purchases of the Cultural Foundation of the Free State of Saxony in the collection was created. The Free State of Saxony promotes the Saxon art scene, among other things, through the annual purchases of works of art, which have taken place since 1992.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://tillmannohm.com/img/portfolio/halle14/republic-exhibition-14-tillmann-ohm.jpg&#34; alt=&#34;Semantic Collection Network web application screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;a href=&#34;https://kunstfonds.tillmannohm.com/&#34; target=&#34;_blank&#34;&gt;[ENTER LIVE WORK]&lt;/a&gt;&#xA;&lt;br&gt;&#xA;&#xA;&lt;br&gt;&#xA;For the exhibition KUNST(RE_PUBLIC) of HALLE 14 in cooperation with the Art Fund (Kunstfonds) of the Dresden State Art Collections, a curatorial classification as well as algorithmic selection of over 370 works of art from the subsidized purchases of the Cultural Foundation of the Free State of Saxony in the collection was created. The Free State of Saxony promotes the Saxon art scene, among other things, through the annual purchases of works of art, which have taken place since 1992.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
